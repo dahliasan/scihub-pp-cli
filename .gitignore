@@ -1,0 +1,9 @@
+scihub
+scihub-pp-cli
+scihub-pp-mcp
+dist/
+*.db
+*.db-shm
+*.db-wal
+.DS_Store
+.env
